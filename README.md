@@ -7,7 +7,7 @@ Une étape complémentaire combine **HDBSCAN** avec un **modèle de langage (LLM
 
 ## Ressources
 - **Dataset Kaggle** : [Phishing Emails Dataset](https://www.kaggle.com/datasets/subhajournal/phishingemails)  
-- **Rapport complet (PDF)** : [Télécharger ici](https://filesender.renater.fr/?s=download&token=e6882859-2f9d-45af-bb88-5dcfb54eafac)
+- **Rapport complet (PDF)** : [Télécharger ici](https://drive.google.com/file/d/1RIeg_QJmuq0cYCihDlWwCO0feRhHIpk4/view?usp=sharing)
 
 ## Contributions
 
